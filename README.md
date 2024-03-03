@@ -3,6 +3,7 @@
 Credit Exploratory Data Analysis Case Study
 
 **Problem Statement:**
+
 ◾ The loan providing companies findit hard to give loans to the people due to theirinsufficientor non-existentcredit history.Because of that, 
 some consumers use it as their advantage by becoming a defaulter. Suppose you work for aconsumer finance company which specialises in 
 lending various types of loans to urban customers.
@@ -22,6 +23,7 @@ sample,
  All other cases:Allothercases when thepayment is paid on time
 
 **Goal Statement:**
+
 ◾ This case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for
 taking actions such as denying the loan,reducing the amount of loan,lending (to risky applicants) at a higherinterest rate, etc.
 This will ensure thatthe consumers capable of repaying the loan are not rejected.Identification of such applicants using EDA is
