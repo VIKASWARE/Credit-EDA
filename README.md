@@ -14,7 +14,7 @@ Credit Exploratory Data Analysis Case Study
 
 ◾ When a client applies for a loan,there are four types of decisions that could be taken by the client/company):
 
- Approved:The Company has approved loan Application
+ Approved:The Company has approved loan Application.
 
  Cancelled:The client cancelled the application sometime during approval.Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client he received worse pricing which he did not want.
 
@@ -32,7 +32,7 @@ Credit Exploratory Data Analysis Case Study
 
 ◾ This case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for
 taking actions such as denying the loan,reducing the amount of loan,lending (to risky applicants) at a higher interest rate, etc.
-This will ensure thatthe consumers capable of repaying the loan are not rejected.Identification of such applicants using EDA is
+This will ensure that the consumers capable of repaying the loan are not rejected.Identification of such applicants using EDA is
 the aim of this case study.
 
 ◾ In other words,the company wants to understand the driving factors (or driver variables) behind loan default,i.e.the variables
