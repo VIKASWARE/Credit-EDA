@@ -1,5 +1,7 @@
 # Credit-EDA
+
 Credit Exploratory Data Analysis Case Study
+
 **Problem Statement:**
 ◾ The loan providing companies findit hard to give loans to the people due to theirinsufficientor non-existentcredit history.Because of that, 
 some consumers use it as their advantage by becoming a defaulter. Suppose you work for aconsumer finance company which specialises in 
